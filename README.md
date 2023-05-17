@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 [`ReellyXD/Reelly-Bot`](https://github.com/ReellyXD/Reelly-Bot)
 
 
-## Team and Friends
+## Friends? GK ADA 🗿
 
  [<img src="https://avatars.githubusercontent.com/ReellyXD" width="100" height="100"/>](https://github.com/ReellyXD) ] 
 
 ----|----|----|----
 
-[siegrin](https://github.com/siegrin) | ]
+[ReellyXD](https://github.com/siegrin) 
