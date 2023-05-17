@@ -22,18 +22,19 @@ Here are some ideas to get you started:
 
 - 🤝 Pencopas Handal 
 
-- 📫 How to reach me  [`Whatsapp`](https://bit.ly/3t4NqV5)
+- 📫 How to reach me  [`Whatsapp`](https://wa.me/62813353348480)
 
 ## ⌨️ Is My Project
 
-* WhatsApp Bot Normal [`siegrin/LucBot`](https://github.com/siegrin/LucBot)
+* Base RTXZY-MD
 
-* WhatsApp Bot Multi Device [`siegrin/Sasarai-MD`](https://github.com/siegrin/Sasarai-MD)
+[`ReellyXD/Reelly-Bot`](https://github.com/ReellyXD/Reelly-Bot)
+
 
 ## Team and Friends
 
- [<img src="https://avatars.githubusercontent.com/siegrin" width="100" height="100"/>](https://github.com/siegrin) | [<img src="https://avatars.githubusercontent.com/itsmedell" width="100" height="100"/>](https://github.com/itsmedell) | [<img src="https://avatars.githubusercontent.com/lendradxx" width="100" height="100"/>](https://github.com/lendradxx) | [<img src="https://avatars.githubusercontent.com/siegrin" width="100" height="100"/>](https://github.com/siegrin)
+ [<img src="https://avatars.githubusercontent.com/ReellyXD" width="100" height="100"/>](https://github.com/ReellyXD) ] 
 
 ----|----|----|----
 
-[siegrin](https://github.com/siegrin) | [itsmedell](https://github.com/itsmedell) | [lendradxx](https://github.com/lendradxx)| [Biman(stepbrother)](https://github.com/siegrin) it
+[siegrin](https://github.com/siegrin) | ]
