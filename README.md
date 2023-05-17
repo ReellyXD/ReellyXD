@@ -30,6 +30,31 @@ Here are some ideas to get you started:
 
 [`ReellyXD/Reelly-Bot`](https://github.com/ReellyXD/Reelly-Bot)
 
+___
+
+### [`👇 MY biodata`](https://oni-chan.my.id/)
+
+```
+
+Intro = {
+
+"Full Name": "FERDI ZAKY LUTHFI ARIDHO",
+
+"Nick name": "FERDI Z",
+
+"Status": "seorang penyendiri, hanya memiliki teman virtual/online, tidak mempunyai teman real live",
+
+"Address": "Pacitan, Jawa Timur, Indonesia",
+
+"Age": "18 Years Old",
+
+"Birthday": "02-07-2004"
+
+}
+
+```
+
+___
 
 ## Friends? GK ADA 🗿
 
