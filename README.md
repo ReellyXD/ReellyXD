@@ -32,23 +32,15 @@ Here are some ideas to get you started:
 
 ___
 
-### [`👇 MY biodata`](https://oni-chan.my.id/)
+### [`👇 Biodata Gw`](https://Wa.me/62813353348480)
 
 ```
 
 Intro = {
-
-"Full Name": "FERDI ZAKY LUTHFI ARIDHO",
-
-"Nick name": "FERDI Z",
-
-"Status": "seorang penyendiri, hanya memiliki teman virtual/online, tidak mempunyai teman real live",
-
-"Address": "Pacitan, Jawa Timur, Indonesia",
-
-"Age": "18 Years Old",
-
-"Birthday": "02-07-2004"
+"Nama Asli": "Jaka🗿",
+"Nick Name": "Reelly",
+"Asal": "Jawa Timur",
+"Umur": Masih Bocil Kok:v
 
 }
 
