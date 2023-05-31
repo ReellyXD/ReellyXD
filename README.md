@@ -37,7 +37,7 @@ ___
 ```
 
 Intro = {
-"Nama Asli": "Jaka🗿",
+"Nama Asli": "Hemm🗿",
 "Nick Name": "Reelly",
 "Asal": "Jawa Timur",
 "Umur": Masih Bocil Kok:v
